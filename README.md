@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 
 <h3 align="center">
-Backend & Cloud Developer | Java · Spring · AWS · Azure
+Backend Developer | Java · Spring Boot · Python
 </h3>
 
 <p align="center">
-Software developer interested in backend development, cloud computing,
-mobile applications and artificial intelligence.
+Software developer focused on backend development, with experience in frontend technologies
+and a strong interest in integrating Artificial Intelligence models into real-world applications.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Backend developer working mainly with **Java and Spring**
-- ☁️ Interested in **Cloud Computing, Microservices and DevOps**
-- 🧠 Experience developing projects involving **Machine Learning and Artificial Intelligence**
-- 📱 I also enjoy building mobile applications with **Flutter**
-- 🎓 Currently working on projects that combine **software engineering and scientific research**
+- 💻 Backend developer focused on building applications and APIs with **Java, Spring Boot, Python and FastAPI**
+- 🌐 I also work with frontend technologies, mainly **Angular, JavaScript, HTML and CSS**
+- 🤖 Interested in integrating **trained Machine Learning models into real-world software applications**
+- 🧩 I enjoy building complete solutions by connecting backend services, databases and user-facing applications
 
 ---
 
@@ -29,23 +28,31 @@ mobile applications and artificial intelligence.
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" />
 </p>
 
-### Cloud & DevOps
+**Java · Spring Boot · Python · FastAPI**
+
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github" />
+  <img src="https://skillicons.dev/icons?i=angular,js,html,css" />
 </p>
 
-### Frontend & Mobile
+**Angular · JavaScript · HTML · CSS**
+
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,flutter,dart,html,css" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
-### Databases & Tools
+**PostgreSQL · SQL Server**
+
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
+
+**Docker · Git · GitHub**
 
 ---
 
@@ -53,50 +60,59 @@ mobile applications and artificial intelligence.
 
 ### 🌌 Muon Spectrum Estimation
 
-Machine learning platform designed to estimate cosmic-ray muon spectra
-using Normalizing Flows and scientific simulation data.
+Full-stack scientific application for estimating cosmic-ray muon spectra using trained **Normalizing Flow** models.
+
+The platform integrates a Machine Learning model with a **FastAPI backend** and an **Angular frontend**, allowing users to perform simulations through a web interface.
 
 **Technologies:** Python · FastAPI · Angular · Machine Learning
+
+[View Project →](YOUR_PROJECT_URL)
 
 ---
 
 ### 👁️ Vision Kids
 
-Mobile application focused on visual training through interactive
-minigames and clinical result tracking.
+Mobile application designed for visual training through interactive minigames, patient configuration and clinical result tracking.
+
+The project focuses on building a complete user experience while connecting application logic, data management and interactive game mechanics.
 
 **Technologies:** Flutter · Dart · Firebase
 
----
-
-### ☁️ Backend & Cloud Projects
-
-Backend applications focused on REST APIs, reactive programming,
-microservices and cloud-native architectures.
-
-**Technologies:** Java · Spring Boot · Spring WebFlux · Docker · Kubernetes
+[View Project →](YOUR_PROJECT_URL)
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 AI & Software
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=skipword&show_icons=true&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=skipword&layout=compact&hide_border=true"
-    height="165"
-  />
-</p>
+I'm interested in the intersection between **software development and Artificial Intelligence**, particularly in integrating trained Machine Learning models into backend services and complete applications.
+
+I enjoy working on the software side of AI: exposing models through APIs, connecting them with applications and turning experimental models into usable software.
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Systems Engineering**  
+Universidad Industrial de Santander (UIS)
+
+---
+
+## 🌎 Languages
+
+- 🇨🇴 **Spanish** — Native
+- 🇬🇧 **English** — Advanced
+- 🇧🇷 **Portuguese** — Basic
 
 ---
 
 ## 🤝 Connect with Me
 
 <p>
-  <a href="TU_LINK_DE_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
