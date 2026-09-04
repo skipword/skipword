@@ -33,10 +33,10 @@ and a strong interest in integrating Artificial Intelligence models into real-wo
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=angular,js,html,css,wordpress" />
 </p>
 
-**Angular · JavaScript · HTML · CSS**
+**Angular · JavaScript · HTML · CSS · WordPress**
 
 ### Databases
 
@@ -56,7 +56,7 @@ and a strong interest in integrating Artificial Intelligence models into real-wo
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 ### 🌌 Muon Spectrum Estimation
 
@@ -66,7 +66,21 @@ The platform integrates a Machine Learning model with a **FastAPI backend** and 
 
 **Technologies:** Python · FastAPI · Angular · Machine Learning
 
-[View Project →](YOUR_PROJECT_URL)
+[Live Demo →](https://muon-generator.vercel.app/) · [Repository →](https://github.com/skipword/MuonGenerator)
+
+---
+
+### 🏆 CoAfina Hackathon 2025
+
+Project developed during the **4th edition of the CoAfina Hackathon**, a Latin American hackathon focused on solving scientific and educational challenges.
+
+Our team achieved **2nd place** in the competition.
+
+The solution was developed as an interactive web application using **Python and Streamlit**.
+
+**Technologies:** Python · Streamlit
+
+[Live Demo →](https://s-arida.streamlit.app/) · [Repository →](https://github.com/Mariannly/Quark5-CoAfina2025)
 
 ---
 
@@ -78,21 +92,23 @@ The project focuses on building a complete user experience while connecting appl
 
 **Technologies:** Flutter · Dart · Firebase
 
-[View Project →](YOUR_PROJECT_URL)
+[Repository →](https://github.com/skipword/ambliopia_game)
 
 ---
 
-## 🤖 AI & Software
+### 🌐 Econuclear Website
 
-I'm interested in the intersection between **software development and Artificial Intelligence**, particularly in integrating trained Machine Learning models into backend services and complete applications.
+Corporate website developed and customized with **WordPress**, focused on responsive design, visual consistency and content structure.
 
-I enjoy working on the software side of AI: exposing models through APIs, connecting them with applications and turning experimental models into usable software.
+**Technologies:** WordPress · Gutenberg · Astra · HTML · CSS
+
+[Visit Website →](https://econuclear.net/)
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. in Systems Engineering**  
+**Systems Engineering**  
 Universidad Industrial de Santander (UIS)
 
 ---
@@ -108,11 +124,11 @@ Universidad Industrial de Santander (UIS)
 ## 🤝 Connect with Me
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/cristian-vladimir-orduz-carvajal-ba6a4a28a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:cristianorduz.c710@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
