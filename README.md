@@ -28,15 +28,11 @@ and a strong interest in integrating Artificial Intelligence models into real-wo
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" />
 </p>
 
-**Java · Spring Boot · Python · FastAPI**
-
 ### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=angular,js,html,css,wordpress" />
 </p>
-
-**Angular · JavaScript · HTML · CSS · WordPress**
 
 ### Databases
 
@@ -44,15 +40,11 @@ and a strong interest in integrating Artificial Intelligence models into real-wo
   <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
-**PostgreSQL · SQL Server**
-
 ### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
-
-**Docker · Git · GitHub**
 
 ---
 
