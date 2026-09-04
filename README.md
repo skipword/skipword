@@ -25,7 +25,7 @@ and a strong interest in integrating Artificial Intelligence models into real-wo
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,django" />
 </p>
 
 ### Frontend
