@@ -121,7 +121,7 @@ Universidad Industrial de Santander (UIS)
 ## 🤝 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/cristian-vladimir-orduz-carvajal-ba6a4a28a/">
+  <a href="https://www.linkedin.com/in/cristian-orduz-c/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
