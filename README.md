@@ -10,7 +10,7 @@ Backend Developer | Java · Spring Boot · Python
 </h3>
 
 <p align="center">
-Software developer focused on backend development, with experience in frontend technologies
+Software developer from colombia focused on backend development, with experience in frontend technologies
 and a strong interest in integrating Artificial Intelligence models into real-world applications.
 </p>
 
